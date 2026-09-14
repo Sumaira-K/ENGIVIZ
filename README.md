@@ -182,6 +182,7 @@ The project produces five primary visualizations.
 ## 1. Netflix Catalog Evolution
 
 Shows the change in Movie vs. TV Show share over time alongside the changing concentration of the top five content-producing countries.
+![Uploading image.png…]()
 
 
 
