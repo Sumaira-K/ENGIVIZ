@@ -183,7 +183,7 @@ The project produces five primary visualizations.
 
 Shows the change in Movie vs. TV Show share over time alongside the changing concentration of the top five content-producing countries.
 
-![Netflix Catalog Evolution](charts/01_trend_and_diversification.png)
+
 
 ---
 
@@ -191,7 +191,7 @@ Shows the change in Movie vs. TV Show share over time alongside the changing con
 
 A stacked horizontal bar chart comparing Movie and TV Show contributions across the top 18 countries.
 
-![Top Content-Producing Countries](charts/02_top_countries.png)
+
 
 ---
 
@@ -199,7 +199,7 @@ A stacked horizontal bar chart comparing Movie and TV Show contributions across 
 
 Compares the most common genre combinations across Movies and TV Shows.
 
-![Genre Combinations](charts/03_genre_combos.png)
+
 
 ---
 
@@ -207,7 +207,7 @@ Compares the most common genre combinations across Movies and TV Shows.
 
 Ranks the 20 most frequently occurring individual genre tags.
 
-![Most Common Genre Tags](charts/04_individual_genres.png)
+
 
 ---
 
@@ -215,7 +215,7 @@ Ranks the 20 most frequently occurring individual genre tags.
 
 Visualizes pairwise relationships between the top 15 genre categories and identifies which genres frequently occur together.
 
-![Genre Co-occurrence Heatmap](charts/05_genre_cooccurrence_heatmap.png)
+
 
 ---
 
